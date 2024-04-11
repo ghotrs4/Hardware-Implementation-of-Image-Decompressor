@@ -1,0 +1,90 @@
+-- Copyright (C) 2019  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and any partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details, at
+-- https://fpgasoftware.intel.com/eula.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=32;
+DEPTH=128;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=DEC;
+
+CONTENT BEGIN
+	0    :   (1448,2008);
+	1    :   (1892,1702);
+	2    :   (1448,1137);
+	3    :   (783,399);
+	4    :   (1448,1702);
+	5    :   (783,−399);
+	6    :   (−1448,−2008);
+	7    :   (−1892,−1137);
+	8    :   (1448,1137);
+	9    :   (−783,−2008);
+	10   :   (−1448,399);
+	11   :   (1892,1702);
+	12   :   (1448,399;
+	13   :   (−1892,−1137);
+	14   :   (1448,1702);
+	15   :   (−783,−2008);
+	16   :   (1448,−399);
+	17   :   (−1892,1137);
+	18   :   (1448,−1702);
+	19   :   (−783,2008);
+	20   :   (1448,−1137);
+	21   :   (−783,2008);
+	22   :   (−1448,−399);
+	23   :   (1892,−1702);
+	24   :   (1448,−1702);
+	25   :   (783,399);
+	26   :   (−1448,2008);
+	27   :   (−1892,1137);
+	28   :   (1448,−2008);
+	29   :   (1892,−1702);
+	30   :   (1448,−1137);
+	31   :   (783,−399);
+	32   :   (1448,1448);
+	33   :   (1448,1448);
+	34   :   (1448,1448);
+	35   :   (1448,1448);
+	36   :   (2008,1702);
+	37   :   (1137,399);
+	38   :   (−399,−1137);
+	39   :   (−1702,−2008);
+	40   :   (1892,783);
+	41   :   (−783,−1892);
+	42   :   (−1892,783);
+	43   :   (783,1892);
+	44   :   (1702,−399);
+	45   :   (−2008,−1137);
+	46   :   (1137,2008);
+	47   :   (399,−1702);
+	48   :   (1448,−1448);
+	49   :   (−1448,1448);
+	50   :   (1448,−1448);
+	51   :   (−1448,1448);
+	52   :   (1137,−2008);
+	53   :   (399,1702);
+	54   :   (−1702,−399);
+	55   :   (2008,−1137);
+	56   :   (783,−1892);
+	57   :   (1892,−783);
+	58   :   (−783,1892);
+	59   :   (−1892,783);
+	60   :   (399,1137);
+	61   :   (1702,−2008);
+	62   :   (2008,−1702);
+	63   :   (1137,−399);
+	[64..127]  :   0;
+END;
